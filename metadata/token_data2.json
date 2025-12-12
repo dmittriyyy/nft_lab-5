@@ -1,6 +1,6 @@
 {
     "name": "Jetton lab5",
     "description": "Encoding image to base64",
-    "image": "image.jpg",
+    "image": "https://github.com/dmittriyyy/nft_lab-5/blob/main/metadata/image.jpg",
     "symbol": "JL5"
 }
