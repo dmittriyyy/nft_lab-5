@@ -1,5 +1,6 @@
 {
     "name": "Jetton lab5",
     "description": "Encoding image to base64",
-    "image": "image.jpg"
+    "image": "image.jpg",
+    "symbol": "JL5"
 }
